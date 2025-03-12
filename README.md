@@ -1,6 +1,6 @@
 # Hedgehog Finances
 
-## Table of Contents
+## Table of Contents 
 
 1. [Project Description](#project-description)
 2. [How to Install and Run the Project](#how-to-install-and-run-the-project)
